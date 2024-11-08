@@ -1,0 +1,6 @@
+# ninja log v5
+4	1242	7527288179753060	CMakeFiles/BTree.dir/main.cpp.obj	62df2efa01a6a375
+2416	2739	7468092514035293	BTree.exe	bf9a2ad37ab8aa9c
+3	1309	7527291806812416	CMakeFiles/BTree.dir/main.cpp.obj	62df2efa01a6a375
+10	1550	7527291809236420	CMakeFiles/BTree.dir/Btree.cpp.obj	bb7e17745eee3b36
+1550	1763	7527291811309690	BTree.exe	50465900581255ef
